@@ -56,7 +56,13 @@ Environment  Dev
 * Cost reporting dashboard.
 * Environment-specific schedules.
 
-## Author
+## Project Outcome
+- Successfully identified running EC2 instances using AWS Lambda
+- Automatically stopped non-production instances using tags
+- Integrated Amazon SNS for email notifications
+- Automated execution using Amazon EventBridge
+- Used CloudWatch Logs for monitoring and troubleshooting
 
+## Author
 Aman Verma
 AWS Cloud Projects Portfolio
